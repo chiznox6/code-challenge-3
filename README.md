@@ -63,5 +63,5 @@ Open `mobileMoneyEstimator/index.html` and enter the transaction amount.
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/Code-Challenge-3.git
+git clone https://github.com/chiznox6/code-challenge-3.git
 cd Code-Challenge-3
