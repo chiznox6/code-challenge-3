@@ -52,7 +52,7 @@ Open `mobileMoneyEstimator/index.html` and enter the transaction amount.
 
 ## 🧠 Technologies Used
 
-- JavaScript (Vanilla)
+- JavaScript 
 - HTML5
 - CSS3
 
